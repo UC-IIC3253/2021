@@ -2,4 +2,4 @@
 
 - [Clase 1](https://zoom.us/rec/share/YIHheeTZjjmeRwzklmuVK5lafw2r2B5SpuvZlUPEV1uyLZPahNmm61duZ644XzM.9zxnkmFPuLljxrcw?startTime=1616072164000). Conceptos básicos: cifrado, autentificación, principio de Kerckhoffs, modelos de cifrado simétrico y asimétrico  
 
-- [Clase 2](https://zoom.us/rec/share/c5f1r0e_B1s0Cq8rNfTigq-lkG2syvHjnc8lPtgp2yyJUzmvF-rdLJrV6Euqo_Qx.G1CqrkV16S3rM0Vr?startTime=1616504081000). Tipos de ataque y la paradoja de los cumpleaños
+- [Clase 2](https://zoom.us/rec/share/c5f1r0e_B1s0Cq8rNfTigq-lkG2syvHjnc8lPtgp2yyJUzmvF-rdLJrV6Euqo_Qx.G1CqrkV16S3rM0Vr?startTime=1616504081000). Tipos de ataques y la utilización de la paradoja de los cumpleaños
