@@ -4,11 +4,11 @@
 
 - `Des`: función de descifrado o desencriptación
 
-- `c = Enc(k,m)`: `m` es el texto plano, `k` es la clave o llave, y `c` es el texto cifrado
+- `c = Enc(k,m)`: `m` es el mensaje o texto plano, `k` es la clave o llave, y `c` es el texto cifrado
 
 - `A` y `B`: Alice y Bob, dos participantes que quieren comunicarse de manera segura
 
-- `E`: Eve, quien quiere atacar a los protocolos criptográficos (descifrar mensajes, hacerse pasar por otro participante...)
+- `E`: Eve, quien quiere atacar a los protocolos criptográficos (descifrar mensajes, hacerse pasar por otro participante, etc.)
 
 - `M`: espacio de todos los mensajes posibles
 
