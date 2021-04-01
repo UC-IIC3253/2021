@@ -7,3 +7,8 @@
 - [Clase 3](https://zoom.us/rec/share/1-QNsm9VaPFyhsiqN8sPLWvOB4bHF9Z8o5iOSgKD0x4_IK7IOoDvkBNbvM378c18.YS4RPj3sOo8r5o7d?startTime=1616676928000). El protocolo de criptografía simétrica One-time pad (OTP)
 
 - [Clase 4](https://zoom.us/rec/share/ssISqTinT9v7rnnsgDzDMa1pcYKP4R0oz84xS8l7gPSjG1Y_qVaTdAlJ_VrslSNC.vwKKI3iCRtov7jM-?startTime=1617108697000). La seguridad del protocolo OTP
+
+- [Clase 5](https://zoom.us/rec/share/CgwEFiMoxsVSoy6qJ8FtucUFeH2jCSIfQCZKndeZSPZobwMybYYPDLoH1QTNYrfY.Iw8sdF0R5JI25wA8?startTime=1617281790000). Quebrando OTP si una llave es usada más de una vez
+
+
+
