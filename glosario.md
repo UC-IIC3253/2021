@@ -17,3 +17,7 @@
 - `K`: espacio de todas las claves posibles
 
 - `h`: función de hash
+
+- Para denotar la probabilidad de un evento utilizaremos `Pr[evento]`. Para referirnos al espacio de casos posibles usaremos la notación de *underset* vista en clases. Por ejemplo dados un mensaje `m` y un texto cifrado `c`, la probabilidad de que al ver `c` el mensaje original haya sido `m` se define como la cantidad de llaves `k` tales que `Enc(k, m)=c` dividido por la cantidad total de llaves. La notación para esta probabilidad sería la siguiente:
+
+![image](https://user-images.githubusercontent.com/5092030/113487109-77badf80-948c-11eb-9ad0-3596f8b42f68.png)
