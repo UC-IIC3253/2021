@@ -20,7 +20,7 @@
 
 - Para denotar la probabilidad de un evento utilizaremos `Pr[evento]`. Para referirnos al espacio de casos posibles usaremos la notación de *underset* vista en clases. Por ejemplo dados un mensaje `m` y un texto cifrado `c`, la probabilidad de que al ver `c` el mensaje original haya sido `m` se define como la cantidad de llaves `k` tales que `Enc(k, m)=c` dividido por la cantidad total de llaves. La notación para esta probabilidad sería la siguiente:
 
-          ![image](https://user-images.githubusercontent.com/5092030/113487109-77badf80-948c-11eb-9ad0-3596f8b42f68.png)
+![image](https://user-images.githubusercontent.com/5092030/113487109-77badf80-948c-11eb-9ad0-3596f8b42f68.png)
 
 - Tipos de ataques:
 
@@ -30,6 +30,6 @@
    
    - `texto plano elegido`: el adversario elige textos planos `m_1`, `m_2`, ..., `m_r`, y le son entregados sus textos cifrados `c_1`, `c_2`, ..., `c_r` 
 
-   - `texto cifrado elegido`: el adversario elige textos planos `m_1`, `m_2`, ..., `m_r`, y le son entregados sus textos cifrados `c_1`, `c_2`, ..., `c_r`, y además elige textos cifrados `c'_1`, `c'_2`, ..., `c'_s`, y les son entregados sus textos textos planos `m'_1`, `m'_2`, ..., `m'_s`
+   - `texto cifrado elegido`: el adversario elige textos planos `m_1`, `m_2`, ..., `m_r`, y le son entregados sus textos cifrados `c_1`, `c_2`, ..., `c_r`, y además elige textos cifrados `c'_1`, `c'_2`, ..., `c'_s`, y les son entregados sus textos planos `m'_1`, `m'_2`, ..., `m'_s`
 
 
