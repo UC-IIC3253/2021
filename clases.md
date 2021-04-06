@@ -10,5 +10,7 @@
 
 - [Clase 5](https://zoom.us/rec/share/CgwEFiMoxsVSoy6qJ8FtucUFeH2jCSIfQCZKndeZSPZobwMybYYPDLoH1QTNYrfY.Iw8sdF0R5JI25wA8?startTime=1617281790000). Quebrando OTP si una llave es usada más de una vez
 
+- [Clase 6](https://zoom.us/rec/share/TbMHZZmOlPqUlcHu0r495J4MpYnduEr2JGriuKnNUw6HFBsauZCdT-Y6eEkwQj__.FiIEirPF6sD_e-KV?startTime=1617717405000). Definición de noción de seguridad pseudo-random permutation (PRP), y demostración que OTP no satisface esta noción para dos rondas.
+
 
 
