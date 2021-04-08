@@ -12,5 +12,7 @@
 
 - [Clase 6](https://zoom.us/rec/share/TbMHZZmOlPqUlcHu0r495J4MpYnduEr2JGriuKnNUw6HFBsauZCdT-Y6eEkwQj__.FiIEirPF6sD_e-KV?startTime=1617717405000). Definición de noción de seguridad pseudo-random permutation (PRP), y demostración que OTP no satisface esta noción para dos rondas.
 
+- [Clase 7](https://zoom.us/rec/share/1UJnX07mmHfjP0VEnNAcInul5GXIvFRgyQf549AU9JwDT6CU5pHL3QZ8wcSBYnJ-.TB4cnozU8guFfJsH?startTime=1617890121000). Funciones de hash, y la propiedad de ser resistente a preimagen.
+
 
 
