@@ -37,4 +37,4 @@
 
 - Propiedades de una función de hash `h : M -> H`:
 
-   - `h es resistente a preimagen`: no existe un algoritmo que dado `x` en `H`, calcule `m` en `M` tal que `h(m) = x`
+   - `h es resistente a preimagen`: no existe un algoritmo eficiente (de tiempo polinomial) que dado `x` en `H`, calcule `m` en `M` tal que `h(m) = x`
