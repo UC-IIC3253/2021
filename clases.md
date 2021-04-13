@@ -14,5 +14,8 @@
 
 - [Clase 7](https://zoom.us/rec/share/1UJnX07mmHfjP0VEnNAcInul5GXIvFRgyQf549AU9JwDT6CU5pHL3QZ8wcSBYnJ-.TB4cnozU8guFfJsH?startTime=1617890121000). Funciones de hash, y la propiedad de ser resistente a preimagen.
 
+- [Clase 8](https://zoom.us/rec/share/pvrBzd7LYQokPjD1cPurfyNBwSTo1D87KeBFnHU2_aw2vt6I4swbzYGrwC4Q7r6Y.7cXPs3kyRqzi_KzB?startTime=1618322107000). La propiedad de ser resistente a colisiones para funciones de hash. Random oracle model para funciones de hash, y los ataques de extensión del largo y de colisiones de mensajes parciales.
+
+
 
 
