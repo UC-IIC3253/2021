@@ -16,6 +16,9 @@
 
 - [Clase 8](https://zoom.us/rec/share/pvrBzd7LYQokPjD1cPurfyNBwSTo1D87KeBFnHU2_aw2vt6I4swbzYGrwC4Q7r6Y.7cXPs3kyRqzi_KzB?startTime=1618322107000). La propiedad de ser resistente a colisiones para funciones de hash. Random oracle model para funciones de hash, y los ataques de extensión del largo y de colisiones de mensajes parciales.
 
+- [Clase 9](https://zoom.us/rec/share/lZdn2chKvu1Sv7bpGvGdX2XsbF4XqvebDFD1OK6Q9NqyfVDaRWXm4yXXH5Eu2y5P.XiMKNVVpfV582HD1?startTime=1618494827000). La construcción de Davies–Meyer de una función de compresión a partir de un modelo de cifrado ideal, y la construcción de Merkle–Damgård de una función de hash resistente a colisiones a partir de las funciones de compresión.
+
+
 
 
 
