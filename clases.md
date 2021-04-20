@@ -18,6 +18,8 @@
 
 - [Clase 9](https://zoom.us/rec/share/lZdn2chKvu1Sv7bpGvGdX2XsbF4XqvebDFD1OK6Q9NqyfVDaRWXm4yXXH5Eu2y5P.XiMKNVVpfV582HD1?startTime=1618494827000). La construcción de Davies–Meyer de una función de compresión a partir de un modelo de cifrado ideal, y la construcción de Merkle–Damgård de una función de hash resistente a colisiones a partir de las funciones de compresión.
 
+- [Clase 10](https://zoom.us/rec/share/T-GfTUQ7zVuCTNtTec5Qdml7OzbS1AtqbL9zVKinBiNXXk3mjvgh5PUNeY7v2g3Z.Rs2r40AGJScmWeOT?startTime=1618927120000). Definición de un message authentication code (MAC).
+
 
 
 
