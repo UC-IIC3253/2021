@@ -20,6 +20,8 @@
 
 - [Clase 10](https://zoom.us/rec/share/T-GfTUQ7zVuCTNtTec5Qdml7OzbS1AtqbL9zVKinBiNXXk3mjvgh5PUNeY7v2g3Z.Rs2r40AGJScmWeOT?startTime=1618927120000). Definición de un message authentication code (MAC).
 
+- [Clase 11](https://zoom.us/rec/share/RZFuMO1-bTuKG3b6KXW_6neWN4DPTKESzJgxwx-VyH8W3aCfbd_3DXN-5g8bGKqJ.ucgTwUokReZWOKJU?startTime=1619099811000). Construcción de un MAC utilizando funciones de cifrado de largo fijo.
+
 
 
 
