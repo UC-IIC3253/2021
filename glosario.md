@@ -50,7 +50,7 @@
 
   - `Dec : K x C -> M` es un algoritmo de tiempo polinomial que corresponde a la función de descifrado. Se debe tener que `Dec(k, Enc(k, m)) = m` para todo `k` en `K` y `m` en `M`.
   
-- Sistema (o esquema) de cifrado simétrico de largo fijo `l(n)`: `(Gen, Enc, Dec)` es definido como un sistema de cifrado simétrico sobre `M`, `K` y `C` que satisface la siguiente propiedad adicional. Para cada `k` generado por la invocación `Gen(1^n)`, se tiene que `Enc(k,m)` está definido solo para mensajes `m` en `M` de largo `l(n)`.
+- Sistema (o esquema) de cifrado simétrico de largo fijo `l(n)`: `(Gen, Enc, Dec)` debe satisfacer la definición de sistema de cifrado simétrico sobre `M`, `K` y `C` junto con siguiente propiedad adicional. Para cada `k` generado por la invocación `Gen(1^n)`, se tiene que `Enc(k,m)` está definido solo para mensajes `m` en `M` de largo `l(n)`.
 
 
 
