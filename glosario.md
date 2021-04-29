@@ -34,9 +34,24 @@
 
    - `texto cifrado elegido`: el adversario elige textos planos `m_1`, `m_2`, ..., `m_r`, y le son entregados sus textos cifrados `c_1`, `c_2`, ..., `c_r`, y además elige textos cifrados `c'_1`, `c'_2`, ..., `c'_s`, y les son entregados sus textos planos `m'_1`, `m'_2`, ..., `m'_s`
 
-
 - Propiedades de una función de hash `h : M -> H`:
 
    - `h es resistente a preimagen`: no existe un algoritmo eficiente (de tiempo polinomial) que dado `x` en `H`, calcule `m` en `M` tal que `h(m) = x`
-
+   
    - `h es resistente a colisiones`: no existe un algoritmo eficiente (de tiempo polinomial) que pueda encontrar dos mensajes distintos `m_1` y `m_2 ` en `M` tales que `h(m_1) = h(m_2)`
+
+- Función despreciable: una función `f : N -> [0,1]`, donde `N` es el conjunto de los números naturales, es despreciable si para todo polinomio `p(n)`, existe `n_0` en `N` tal que para todo `n >= n_0`: `f(n) <= 1/p(n)`
+
+- Sistema (o esquema) de cifrado simétrico: dados espacios `M`, `K` y `C` de mensajes, claves y textos cifrados, respectivamente, `(Gen, Enc, Dec)` es un sistema de cifrado simétrico sobre `M`, `K` y `C` si: 
+
+  - `Gen : {1}^* -> K` es un algoritmo aleatorizado de tiempo polinomial que dado `1^n` genera una clave `k` en `K`.
+
+  - `Enc : K x M -> C` es un algoritmo de tiempo polinomial que corresponde a la función de cifrado.
+
+  - `Dec : K x C -> M` es un algoritmo de tiempo polinomial que corresponde a la función de descifrado. Se debe tener que `Dec(k, Enc(k, m)) = m` para todo `k` en `K` y `m` en `M`.
+  
+- Sistema (o esquema) de cifrado simétrico de largo fijo `l(n)`: `(Gen, Enc, Dec)` es definido como un sistema de cifrado simétrico sobre `M`, `K` y `C` que satisface la siguiente propiedad adicional. Para cada `k` generado por la invocación `Gen(1^n)`, se tiene que `Enc(k,m)` está definido solo para mensajes `m` en `M` de largo `l(n)`.
+
+
+
+
