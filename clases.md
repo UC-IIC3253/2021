@@ -22,6 +22,11 @@
 
 - [Clase 11](https://zoom.us/rec/share/RZFuMO1-bTuKG3b6KXW_6neWN4DPTKESzJgxwx-VyH8W3aCfbd_3DXN-5g8bGKqJ.ucgTwUokReZWOKJU?startTime=1619099811000). Construcción de un MAC utilizando funciones de cifrado de largo fijo.
 
+- [Clase 12](https://zoom.us/rec/share/QPrmLu5Rc1OcZuwtmtnYJjl2c7OwZWt93txC-cr-uyX-21EhCtQfwgRl_f0wM2CG.dv1BKYZbNkdBuctx?startTime=1619531610000). Construcción de un MAC utilizando funciones de hash (HMAC).
+
+- [Clase 13](https://zoom.us/rec/share/W5ISZNWd4oOf4jXVcKwehQMiDRjjKQEvd8y9ISbcPjC_gTVExrjuUbqrTenMv_QU.eti4TaydFiJGRVtZ?startTime=1619704521000). Definiciones de noción de ser computacionalmente seguro, función despreciable y sistema de cifrado simétrico. 
+
+
 
 
 
