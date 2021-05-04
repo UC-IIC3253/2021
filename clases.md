@@ -24,7 +24,9 @@
 
 - [Clase 12](https://zoom.us/rec/share/QPrmLu5Rc1OcZuwtmtnYJjl2c7OwZWt93txC-cr-uyX-21EhCtQfwgRl_f0wM2CG.dv1BKYZbNkdBuctx?startTime=1619531610000). Construcción de un MAC utilizando funciones de hash (HMAC).
 
-- [Clase 13](https://zoom.us/rec/share/W5ISZNWd4oOf4jXVcKwehQMiDRjjKQEvd8y9ISbcPjC_gTVExrjuUbqrTenMv_QU.eti4TaydFiJGRVtZ?startTime=1619704521000). Definiciones de noción de ser computacionalmente seguro, función despreciable y sistema de cifrado simétrico. 
+- [Clase 13](https://zoom.us/rec/share/W5ISZNWd4oOf4jXVcKwehQMiDRjjKQEvd8y9ISbcPjC_gTVExrjuUbqrTenMv_QU.eti4TaydFiJGRVtZ?startTime=1619704521000). Definiciones de noción de ser computacionalmente seguro, función despreciable y sistema de cifrado simétrico.
+
+- [Clase 14](https://zoom.us/rec/share/h3cfAxRjXkidFJKnGAIFXOg2M3EpQrngV_GWwHjZpgPpurZ99VWf3nWliiOMK7E1.LKwkWcc8N_brS6bz?startTime=1620136560000). Definiciones de sistema de cifrado simétrico seguro ante un ataque de solo texto cifrado y generador pseudo-aleatorio. 
 
 
 
