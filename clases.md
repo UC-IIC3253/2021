@@ -28,6 +28,8 @@
 
 - [Clase 14](https://zoom.us/rec/share/h3cfAxRjXkidFJKnGAIFXOg2M3EpQrngV_GWwHjZpgPpurZ99VWf3nWliiOMK7E1.LKwkWcc8N_brS6bz?startTime=1620136560000). Definiciones de sistema de cifrado simétrico seguro ante un ataque de solo texto cifrado y generador pseudo-aleatorio. 
 
+- [Clase 15](https://zoom.us/rec/share/N-WdFLpN4C2lp_ocCr6nYAqu4L4NXSmoge3kkubLqO_eppaBtjjoAcInLYh3F6nn.TeLYWMqUuKtRkxSp?startTime=1620309356000). Construcción de un sistema de cifrado simétrico seguro ante un ataque de solo texto cifrado basado en la existencia de un generador pseudo-aleatorio. 
+
 
 
 
