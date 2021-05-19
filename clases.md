@@ -30,6 +30,8 @@
 
 - [Clase 15](https://zoom.us/rec/share/N-WdFLpN4C2lp_ocCr6nYAqu4L4NXSmoge3kkubLqO_eppaBtjjoAcInLYh3F6nn.TeLYWMqUuKtRkxSp?startTime=1620309356000). Construcción de un sistema de cifrado simétrico seguro ante un ataque de solo texto cifrado basado en la existencia de un generador pseudo-aleatorio. 
 
+- [Clase 16](https://zoom.us/rec/share/gsBYzWmEGFs83wnt0G5IV_uenuePBnePhiVq57faO25_V-hWMA9ccxXOkoHAasLl.PTggzBeVrqluM_oU?startTime=1621346278000). Primeros pasos en la construcción del sistema de cifrado simétrico AES (Advanced Encryption Standard).
+
 
 
 
