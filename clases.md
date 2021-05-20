@@ -30,8 +30,9 @@
 
 - [Clase 15](https://zoom.us/rec/share/N-WdFLpN4C2lp_ocCr6nYAqu4L4NXSmoge3kkubLqO_eppaBtjjoAcInLYh3F6nn.TeLYWMqUuKtRkxSp?startTime=1620309356000). Construcción de un sistema de cifrado simétrico seguro ante un ataque de solo texto cifrado basado en la existencia de un generador pseudo-aleatorio. 
 
-- [Clase 16](https://zoom.us/rec/share/gsBYzWmEGFs83wnt0G5IV_uenuePBnePhiVq57faO25_V-hWMA9ccxXOkoHAasLl.PTggzBeVrqluM_oU?startTime=1621346278000). Primeros pasos en la construcción del sistema de cifrado simétrico AES (Advanced Encryption Standard).
+- [Clase 16](https://zoom.us/rec/share/gsBYzWmEGFs83wnt0G5IV_uenuePBnePhiVq57faO25_V-hWMA9ccxXOkoHAasLl.PTggzBeVrqluM_oU?startTime=1621346278000). Redes de substitución-permutación como la base de un sistema de cifrado simétrico.
 
+- [Clase 17](https://zoom.us/rec/share/8Upru-h3_fu45P6fUd2SeGX2njM43kcFxbYoIQ1XA1le7_GXgef9swBN8r058ihB.cV26UlpT3hEJEAdr?startTime=1621519016000). Red de Feistel y el algoritmo de cifrado simétrico DES (Data Encryption Standard).
 
 
 
