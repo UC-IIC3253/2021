@@ -38,6 +38,8 @@
 
 - [Clase 19](https://zoom.us/rec/share/OHMDVmcCf24b6bD3J6cHvjQdIyA6E5gSSh_2QXA4KZFkv2c9nPvxnqzXu16BMPlY.XCZnUtTWBp5zcqKg?startTime=1622123826000). El algoritmo extendido de Euclides, la noción de inverso modular y la definición del protocolo critográfico de clave pública RSA.
 
+- [Clase 20](https://zoom.us/rec/share/_ze1HTtVnPXPN0cTjXpecGptD0z9ZlaM_Zlop3xVaJAjpkl_fDk0nIj3o2mHmAw2.hZ4ynjXo_U0KhL1R?startTime=1622555870000). Los algoritmos necesarios para que funcione RSA. 
+
 
 
 
