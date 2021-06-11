@@ -42,6 +42,8 @@
 
 - [Clase 21](https://zoom.us/rec/share/FcTm7MMoj9D0ZvM0PCueiHwSUx3tPwkNfDFSx1z-AdXAAG4vAo_x0p53G_jQDZFp.9uu9aArJs_-GOmlM?startTime=1622728609000). La demostración de que RSA funciona correctamente, y los tests de primalidad.
 
+- [Clase 22](https://zoom.us/rec/share/bVq75EC4Sxm8AySjcaylUAYPiDQUnIChlvSDzyRhhbEJ887RysTUHuB2F-g7uMa-.OsIHNZAAhyOcCFs8?startTime=1623160536000). RSA en la práctica, y la definición del protocolo criptográfico de clave pública ElGamal.
+
 
 
 
