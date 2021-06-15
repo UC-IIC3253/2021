@@ -44,6 +44,8 @@
 
 - [Clase 22](https://zoom.us/rec/share/bVq75EC4Sxm8AySjcaylUAYPiDQUnIChlvSDzyRhhbEJ887RysTUHuB2F-g7uMa-.OsIHNZAAhyOcCFs8?startTime=1623160536000). RSA en la práctica, y la definición del protocolo criptográfico de clave pública ElGamal.
 
+- [Clase 23](https://zoom.us/rec/share/bci9s-4ZC51MhLQO4rPiTBmLh1oAZ09f3Dui7EGPwFxxQJvpfOHW-wd_60r_RBK5.pRXhvXdLxjDDSE6Q?startTime=1623765438000). El protocolo criptográfico de clave pública ElGamal, y el problema de decisión de Diffie-Hellman.
+
 
 
 
