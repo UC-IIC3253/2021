@@ -46,6 +46,8 @@
 
 - [Clase 23](https://zoom.us/rec/share/bci9s-4ZC51MhLQO4rPiTBmLh1oAZ09f3Dui7EGPwFxxQJvpfOHW-wd_60r_RBK5.pRXhvXdLxjDDSE6Q?startTime=1623765438000). El protocolo criptográfico de clave pública ElGamal, y el problema de decisión de Diffie-Hellman.
 
+- [Clase 24](https://zoom.us/rec/share/Cl6xbFP58jFUF7movpWZVu3gFYAZltTzJYTg_V2zTlD_6zdh0VF4cHugtYKVHy_i.5lVa0fFKiWrwqeCt?startTime=1623938412000). Firmas digitales basadas en RSA y ElGamal.
+
 
 
 
