@@ -48,6 +48,12 @@
 
 - [Clase 24](https://zoom.us/rec/share/Cl6xbFP58jFUF7movpWZVu3gFYAZltTzJYTg_V2zTlD_6zdh0VF4cHugtYKVHy_i.5lVa0fFKiWrwqeCt?startTime=1623938412000). Firmas digitales basadas en RSA y ElGamal.
 
+- [Clase 25](https://zoom.us/rec/share/XaPWa-YBEpoJ67j71q9hQxnEfPdSsohGAc6_S0wN1fMFmr_GTYnFxlRM3YYs6bAf.wGKwx5seuhPl01PH?startTime=1624370129000). La generalización de ElGamal a grupos arbitrarios. Infraestructura de clave pública.
+
+- [Clase 26](https://zoom.us/rec/share/AQcGksCJ0opIIW49qXUdvquu-cJ7-GBqz976R4POjCc_IvhAOMv1bHWeSjfSRiP9.cJQYqUxazf2jTylb?startTime=1624974975000). Seguridad en la Web.
+
+
+
 
 
 
