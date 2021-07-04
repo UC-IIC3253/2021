@@ -203,8 +203,8 @@ def dec(m: int) -> int:
     Retorna :
         int: descifrado de m de acuerdo con la clave privada
         almacenada en private_key.txt
-    return exp_mod_file(m, "private_key.txt")
     """
+    return exp_mod_file(m, "private_key.txt")
 
 
 if __name__ == "__main__":
