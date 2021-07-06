@@ -50,9 +50,11 @@
 
 - [Clase 25](https://zoom.us/rec/share/XaPWa-YBEpoJ67j71q9hQxnEfPdSsohGAc6_S0wN1fMFmr_GTYnFxlRM3YYs6bAf.wGKwx5seuhPl01PH?startTime=1624370129000). La generalización de ElGamal a grupos arbitrarios. Infraestructura de clave pública.
 
-- [Clase 26](https://zoom.us/rec/share/AQcGksCJ0opIIW49qXUdvquu-cJ7-GBqz976R4POjCc_IvhAOMv1bHWeSjfSRiP9.cJQYqUxazf2jTylb?startTime=1624974975000). Seguridad en la Web.
+- [Clase 26](https://zoom.us/rec/share/AQcGksCJ0opIIW49qXUdvquu-cJ7-GBqz976R4POjCc_IvhAOMv1bHWeSjfSRiP9.cJQYqUxazf2jTylb?startTime=1624974975000). Seguridad en la Web: parte I.
 
+- [Clase 27](https://zoom.us/rec/share/cHonPgl0X2zttgpFOG7sMacP9O4xDCnKBOQUmT7Q1rVTgAYwW8nUyfX1hWbi4g1H.8C0qZKRMreeCU8XD?startTime=1625147842000). Seguridad en la Web: parte II.
 
+- [Clase 28](https://zoom.us/rec/share/m9hsLUIFID6LiGlL8MrprAJl0pMFTf6LT_PKEHRdY4I7YxVkqIf7d8c1Uy8r3RHD.7Nb7kwfe9MSH0esu?startTime=1625579793000). El protocolo de Bitcoin: parte I.
 
 
 
