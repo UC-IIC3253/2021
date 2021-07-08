@@ -56,6 +56,8 @@
 
 - [Clase 28](https://zoom.us/rec/share/m9hsLUIFID6LiGlL8MrprAJl0pMFTf6LT_PKEHRdY4I7YxVkqIf7d8c1Uy8r3RHD.7Nb7kwfe9MSH0esu?startTime=1625579793000). El protocolo de Bitcoin: parte I.
 
+- [Clase 29](https://zoom.us/rec/share/lc9poRULB2N44ka-AAuL16O9iB_oN-IRA1KtEzp8ggk-7dgDvehKBfsHFhubYbC8.xPd0s9Y7KKJouweO?startTime=1625752620000). El protocolo de Bitcoin: parte II.
+
 
 
 
