@@ -1,1 +1,0 @@
-Tuvimos un pequeño error, vamos a subir las notas lo antes posible, porfa esten atentos. 
